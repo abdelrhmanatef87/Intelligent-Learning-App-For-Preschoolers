@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "143350618686",
+    "project_id": "intelligent-learning-885d9",
+    "storage_bucket": "intelligent-learning-885d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143350618686:android:7cff66c8fdd7adae14cf6f",
+        "android_client_info": {
+          "package_name": "com.example.intelligent_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143350618686-4liftb19mm34ojc9ulegfs6ilvp7fibk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.intelligent_learning",
+            "certificate_hash": "51197c88d984f6d21b564ef6aa13dbdcc911e3e1"
+          }
+        },
+        {
+          "client_id": "143350618686-qevd98qlpm6rbr0odr9vfd79les4ev9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu5HadBs0e9h1nYJaV8Uva2KDetrVfHmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143350618686-qevd98qlpm6rbr0odr9vfd79les4ev9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
